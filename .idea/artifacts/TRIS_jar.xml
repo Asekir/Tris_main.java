@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TRIS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TRIS_jar</output-path>
+    <root id="archive" name="TRIS.jar">
+      <element id="module-output" name="TRIS" />
+    </root>
+  </artifact>
+</component>
